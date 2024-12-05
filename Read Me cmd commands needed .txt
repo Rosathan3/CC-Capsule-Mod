@@ -1,0 +1,7 @@
+in the top seach bar type in cmd
+then
+
+
+gradlew setupDecompWorkspace
+gradlew eclipse
+

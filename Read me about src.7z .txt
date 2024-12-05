@@ -1,0 +1,4 @@
+so i added the  "minecraft.7z" files and a common settup for the src folder deleating the 
+base test mod and adding file paths that youll need to make as well as a lang folder
+you will need to rename the modID folder to what ever your 3 letter acronim for your mod is
+or what ever your modID is set to.

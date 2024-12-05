@@ -1,0 +1,2 @@
+when your done with making your mod paste this the build.bat in the build.7z in your
+main directory and double click it.

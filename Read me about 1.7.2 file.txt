@@ -1,0 +1,16 @@
+so i noticed that after the work space is made the build folder had little to no code
+on the mob renders and a bunch more that i probably dont know yet.
+but a tutorial for 1.7.2 had said documentation and i tested the code for the 
+renderer and as far as i tested it seems to be a 1:1 when it comes to compatability
+so knowing this i added it to the list of files.
+
+after the gradle is made and the work space is set up un pack this compessed file so the folder is
+in the work space with all the other main files
+
+then in eclipse you should be able to use the built in code
+idk why the src for 1.7.10 is missing it. could just be located in a different place
+idk tbh but now just in case you have access like how 1.7.2 did it.
+
+
+
+just put it in the main folder nothing fancy
