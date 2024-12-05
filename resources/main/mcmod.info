@@ -1,0 +1,20 @@
+[
+{
+  "modid": "starterhousemod",
+  "name": "CC Capsule Mod",
+  "description": "Thank you for choosing CapsuleCorp for all your every day life needs!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RosathanPlays"],
+  "credits": "Thank you Lythom for the inspiration to make this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
+
+
+
+
